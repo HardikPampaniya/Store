@@ -1,0 +1,23 @@
+/* AddBook.css */
+
+.container {
+    /* background-image: url('background.jpg'); Replace 'background.jpg' with your image file */
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+  }
+  
+  .form-control {
+    margin-bottom: 10px;
+  }
+  
+  .button-group {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .alert {
+    margin-top: 10px;
+  }
+  

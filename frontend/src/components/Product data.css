@@ -1,0 +1,53 @@
+.product-table-container {
+    margin-top: 50px;
+  }
+  
+  .product-navbar {
+    display: flex;
+    align-items: center;
+    margin-left: 60%;
+  }
+
+  .search{
+    margin-right: 10%;
+    background-color: skyblue;
+    text-decoration-color: white;
+    border-radius: 20%;
+  }
+
+  .logout{
+    width: 255%;
+    background-color: yellow;
+  }
+
+  .navbar-brand{
+    margin-left: 10%;
+    border-radius: 25px
+  }
+  
+  .search-input {
+    width: 200px;
+    margin-right: 10px;
+  }
+  
+  .product-table {
+    width: 100%;
+  }
+  
+  .product-image {
+    width: 100px;
+    height: 100px;
+    margin-left: 20%;
+  }
+  
+  .product-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .add-product-button {
+    margin-top: 20px;
+    margin-left: 48%;
+  }
+  
